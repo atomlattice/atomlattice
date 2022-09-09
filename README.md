@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atomlattice
-- 👀 I’m interested in ...
+- 👀 I’m interested in turning archival and special collections material into data
 - 🌱 I’m currently learning how to work as a Data Scientist as Springboard student
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: atomlattice at gmail.com
 
 <!---
