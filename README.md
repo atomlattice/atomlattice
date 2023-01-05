@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atomlattice
-- 👀 I’m interested in turning archival and special collections material into data
-- 🌱 I’m currently learning how to work as a Data Scientist as a Springboard student
+- 👋 Hi, I’m Sarah
+- 👀 I’m interested in all things! I am particularly excited about taxonomies and ontologies at the moment.
+- 🌱 I’m currently learning a Springboard student gaining skills to change careers to Data Science and Analytics
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: atomlattice at gmail.com
 
